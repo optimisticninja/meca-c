@@ -20,8 +20,8 @@ static void print_usage(const char *prog)
   printf(
       "MECA Encryptor (c) John Holly 2023 - Encrypt files/data using "
       "second-order cellular automata\n"
-      "usage:\n%s -i <input_file> -o <output_file> \\\n"
-      "\t[-c <chunk_size> | --chunk-size <chunk_size>] [-w <1|2|4|8> | "
+      "usage:\n%s -i <input-file> -o <output-file> \\\n"
+      "\t[-c <chunk-size> | --chunk-size <chunk-size>] [-w <1|2|4|8> | "
       "--word-size <1|2|4|8>] \\\n\t[--rule <hex|decimal> | -r <hex|decimal>] "
       "[--epochs <decimal|hex> | -e <decimal|hex>]\n",
       prog);
