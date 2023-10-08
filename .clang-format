@@ -1,0 +1,8 @@
+﻿---
+BreakBeforeBraces: Linux
+ColumnLimit: '80'
+IndentWidth: '2'
+IndentCaseLabels: 'true'
+PointerAlignment: Right
+SpaceAfterCStyleCast: 'true'
+...
